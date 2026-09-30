@@ -1,0 +1,10 @@
+# Security headers for Netlify and Cloudflare Pages (GitHub Pages ignores this file). See docs/DEPLOY.md.
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  X-Robots-Tag: noindex, nofollow
+
+# the service worker must always be fetched fresh so every release reaches every phone
+/sw.js
+  Cache-Control: no-cache

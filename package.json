@@ -1,0 +1,18 @@
+{
+  "name": "landscapers-inc-hq",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Landscapers Inc. HQ — static web app (no build step). These scripts are optional developer tools; GitHub Pages needs none of them.",
+  "scripts": {
+    "serve": "node tools/serve.mjs 8080",
+    "check": "node tools/check.mjs",
+    "test": "node tools/test-all.mjs",
+    "sql": "node tools/gen-sql.mjs",
+    "seed": "node tools/build-seed.mjs",
+    "test:sql": "node tools/test-sql.mjs"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "0.5.8"
+  }
+}
