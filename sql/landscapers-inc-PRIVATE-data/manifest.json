@@ -1,0 +1,306 @@
+{
+ "version": "c5f9e33d90d1",
+ "built_at": "2026-09-30T11:41:07.928Z",
+ "collections": [
+  {
+   "name": "appointments",
+   "file": "appointments.json",
+   "count": 2,
+   "label": "Legal appointments"
+  },
+  {
+   "name": "asset_maintenance",
+   "file": "asset_maintenance.json",
+   "count": 17,
+   "label": "Maintenance tickets"
+  },
+  {
+   "name": "assets",
+   "file": "assets.json",
+   "count": 66,
+   "label": "Assets & equipment"
+  },
+  {
+   "name": "bank_accounts",
+   "file": "bank_accounts.json",
+   "count": 1,
+   "label": "Bank accounts"
+  },
+  {
+   "name": "calendars",
+   "file": "calendars.json",
+   "count": 2,
+   "label": "Calendars"
+  },
+  {
+   "name": "call_attempts",
+   "file": "call_attempts.json",
+   "count": 79,
+   "label": "Call attempts"
+  },
+  {
+   "name": "certificates",
+   "file": "certificates.json",
+   "count": 6,
+   "label": "Training & certificates"
+  },
+  {
+   "name": "clients",
+   "file": "clients.json",
+   "count": 63,
+   "label": "Clients"
+  },
+  {
+   "name": "compliance_docs",
+   "file": "compliance_docs.json",
+   "count": 15,
+   "label": "Company compliance"
+  },
+  {
+   "name": "contacts",
+   "file": "contacts.json",
+   "count": 7,
+   "label": "Contacts"
+  },
+  {
+   "name": "contract_changes",
+   "file": "contract_changes.json",
+   "count": 2,
+   "label": "Contract changes"
+  },
+  {
+   "name": "contracts",
+   "file": "contracts.json",
+   "count": 57,
+   "label": "Maintenance contracts"
+  },
+  {
+   "name": "crews",
+   "file": "crews.json",
+   "count": 2,
+   "label": "Crews"
+  },
+  {
+   "name": "data_issues",
+   "file": "data_issues.json",
+   "count": 523,
+   "label": "Data health issues"
+  },
+  {
+   "name": "deductions",
+   "file": "deductions.json",
+   "count": 3,
+   "label": "Staff deductions"
+  },
+  {
+   "name": "design_options",
+   "file": "design_options.json",
+   "count": 13,
+   "label": "Design & paving options"
+  },
+  {
+   "name": "docs",
+   "file": "docs.json",
+   "count": 59,
+   "label": "Docs"
+  },
+  {
+   "name": "drives",
+   "file": "drives.json",
+   "count": 8,
+   "label": "Shared drives"
+  },
+  {
+   "name": "employees",
+   "file": "employees.json",
+   "count": 14,
+   "label": "Employees"
+  },
+  {
+   "name": "events",
+   "file": "events.json",
+   "count": 53,
+   "label": "Calendar events"
+  },
+  {
+   "name": "expenses",
+   "file": "expenses.json",
+   "count": 56,
+   "label": "Expenses"
+  },
+  {
+   "name": "files",
+   "file": "files.json",
+   "count": 239,
+   "label": "Files"
+  },
+  {
+   "name": "financial_periods",
+   "file": "financial_periods.json",
+   "count": 9,
+   "label": "Monthly statements"
+  },
+  {
+   "name": "folders",
+   "file": "folders.json",
+   "count": 42,
+   "label": "Folders"
+  },
+  {
+   "name": "forms",
+   "file": "forms.json",
+   "count": 20,
+   "label": "Forms"
+  },
+  {
+   "name": "goals",
+   "file": "goals.json",
+   "count": 61,
+   "label": "Goals & plan"
+  },
+  {
+   "name": "invoices",
+   "file": "invoices.json",
+   "count": 89,
+   "label": "Invoices"
+  },
+  {
+   "name": "jobs",
+   "file": "jobs.json",
+   "count": 35,
+   "label": "Jobs & projects"
+  },
+  {
+   "name": "kpi_definitions",
+   "file": "kpi_definitions.json",
+   "count": 23,
+   "label": "KPI definitions"
+  },
+  {
+   "name": "kpi_entries",
+   "file": "kpi_entries.json",
+   "count": 75,
+   "label": "KPI entries"
+  },
+  {
+   "name": "leads",
+   "file": "leads.json",
+   "count": 174,
+   "label": "Leads"
+  },
+  {
+   "name": "medicals",
+   "file": "medicals.json",
+   "count": 10,
+   "label": "Medical certificates"
+  },
+  {
+   "name": "meetings",
+   "file": "meetings.json",
+   "count": 1,
+   "label": "Meetings"
+  },
+  {
+   "name": "owner_funding",
+   "file": "owner_funding.json",
+   "count": 8,
+   "label": "Owner funding"
+  },
+  {
+   "name": "payroll",
+   "file": "payroll.json",
+   "count": 49,
+   "label": "Payroll"
+  },
+  {
+   "name": "ppe_issues",
+   "file": "ppe_issues.json",
+   "count": 1,
+   "label": "PPE issues"
+  },
+  {
+   "name": "profiles",
+   "file": "profiles.json",
+   "count": 4,
+   "label": "People"
+  },
+  {
+   "name": "prospects",
+   "file": "prospects.json",
+   "count": 82,
+   "label": "Prospects"
+  },
+  {
+   "name": "purchases",
+   "file": "purchases.json",
+   "count": 5,
+   "label": "Purchases"
+  },
+  {
+   "name": "quotes",
+   "file": "quotes.json",
+   "count": 32,
+   "label": "Quotes"
+  },
+  {
+   "name": "references",
+   "file": "references.json",
+   "count": 3,
+   "label": "Client references"
+  },
+  {
+   "name": "services",
+   "file": "services.json",
+   "count": 46,
+   "label": "Services & pricing"
+  },
+  {
+   "name": "settings",
+   "file": "settings.json",
+   "count": 1,
+   "label": "Settings"
+  },
+  {
+   "name": "sites",
+   "file": "sites.json",
+   "count": 57,
+   "label": "Sites"
+  },
+  {
+   "name": "suppliers",
+   "file": "suppliers.json",
+   "count": 5,
+   "label": "Suppliers"
+  },
+  {
+   "name": "tasks",
+   "file": "tasks.json",
+   "count": 14,
+   "label": "Tasks"
+  },
+  {
+   "name": "toolbox_talks",
+   "file": "toolbox_talks.json",
+   "count": 1,
+   "label": "Toolbox talks"
+  },
+  {
+   "name": "vehicle_logs",
+   "file": "vehicle_logs.json",
+   "count": 6,
+   "label": "Vehicle log"
+  },
+  {
+   "name": "vehicles",
+   "file": "vehicles.json",
+   "count": 3,
+   "label": "Vehicles"
+  },
+  {
+   "name": "visits",
+   "file": "visits.json",
+   "count": 201,
+   "label": "Visits"
+  }
+ ]
+}
